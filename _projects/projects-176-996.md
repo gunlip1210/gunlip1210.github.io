@@ -1,6 +1,6 @@
 ---
 title: "Voice Phishing Detection Application"
-excerpt: "&#124; Jul ’24 - Aug ’24 &#124; <a href='https://github.com/gunlip1210/Voice_Phishing_Detection_Application' target='_blank'>Github</a> &#124; <a href='/files/projects/176-996-01.pdf' target='_blank'>Presentation</a> &#124; <br/>Developed an app to detect fraudulent calls. <br/> <img src='/images/projects/176-996-01.gif' style='width: 44.4%; height: 44.4%; float: left;margin-bottom: 20px;'> <img src='/images/projects/176-996-02.gif' style='width: 55.6%; height: 55.6%; float: right;margin-bottom: 20px;'>"
+excerpt: "&#124; Jul ’24 - Aug ’24 &#124; <a href='https://github.com/gunlip1210/Voice_Phishing_Detection_Application' target='_blank'>Github</a> &#124; <a href='/files/projects/176-996-01.pdf' target='_blank'>Presentation</a> &#124; <br/>Developed an app to detect fraudulent calls. <br/> <img src='/images/projects/176-996-01.gif' style='width: 44.4%; height: 44.4%; float: left;margin-bottom: 40px;'> <img src='/images/projects/176-996-02.gif' style='width: 55.6%; height: 55.6%; float: right;margin-bottom: 40px;'>"
 collection: projects
 ---
 
